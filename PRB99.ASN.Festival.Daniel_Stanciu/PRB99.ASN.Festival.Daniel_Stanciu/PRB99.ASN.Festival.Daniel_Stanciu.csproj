@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helpers\InputHelper.cs" />
+    <Compile Include="Models\Booth.cs" />
+    <Compile Include="Models\Camping.cs" />
+    <Compile Include="Models\Festival.cs" />
+    <Compile Include="Models\Infrastructure.cs" />
+    <Compile Include="Models\Stage.cs" />
+    <Compile Include="Models\Visitor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

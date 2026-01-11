@@ -3,7 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|c:\\users\\admin\\desktop\\project\\festival\\prb99.asn.festival.daniel_stanciu\\prb99.asn.festival.daniel_stanciu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|c:\\users\\admin\\desktop\\project\\festival\\prb99.asn.festival.daniel_stanciu\\prb99.asn.festival.daniel_stanciu\\models\\booth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|solutionrelative:prb99.asn.festival.daniel_stanciu\\models\\booth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\prb99.asn.festival.daniel_stanciu\\models\\camping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|solutionrelative:prb99.asn.festival.daniel_stanciu\\models\\camping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\prb99.asn.festival.daniel_stanciu\\models\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|solutionrelative:prb99.asn.festival.daniel_stanciu\\models\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\prb99.asn.festival.daniel_stanciu\\models\\infrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|solutionrelative:prb99.asn.festival.daniel_stanciu\\models\\infrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\prb99.asn.festival.daniel_stanciu\\models\\festival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|solutionrelative:prb99.asn.festival.daniel_stanciu\\models\\festival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\prb99.asn.festival.daniel_stanciu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2A4EF5D-B57C-4EB4-8BF8-8410E84A3EDC}|PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu.csproj|solutionrelative:prb99.asn.festival.daniel_stanciu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +34,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camping.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Camping.cs",
+              "RelativeDocumentMoniker": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Camping.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Camping.cs",
+              "RelativeToolTip": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Camping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:20:36.857Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Booth.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Booth.cs",
+              "RelativeDocumentMoniker": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Booth.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Booth.cs",
+              "RelativeToolTip": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Booth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:20:27.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Stage.cs",
+              "RelativeDocumentMoniker": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Stage.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Stage.cs",
+              "RelativeToolTip": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Stage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:20:16.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Infrastructure.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Infrastructure.cs",
+              "RelativeDocumentMoniker": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Infrastructure.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Infrastructure.cs",
+              "RelativeToolTip": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Infrastructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:20:09.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Festival.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Festival.cs",
+              "RelativeDocumentMoniker": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Festival.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Festival.cs",
+              "RelativeToolTip": "PRB99.ASN.Festival.Daniel_Stanciu\\Models\\Festival.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:19:53.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\festival\\PRB99.ASN.Festival.Daniel_Stanciu\\PRB99.ASN.Festival.Daniel_Stanciu\\Program.cs",
               "RelativeDocumentMoniker": "PRB99.ASN.Festival.Daniel_Stanciu\\Program.cs",
@@ -26,8 +107,7 @@
               "RelativeToolTip": "PRB99.ASN.Festival.Daniel_Stanciu\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T17:17:05.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T17:17:05.405Z"
             }
           ]
         }
